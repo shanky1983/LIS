@@ -1,0 +1,57 @@
+C:\Users\ATTUNE\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ModuleConfig.xml
+C:\Users\ATTUNE\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Attune.Kernel.Build.exe.config
+C:\Users\ATTUNE\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Attune.Kernel.Build.exe
+C:\Users\ATTUNE\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Attune.Kernel.Build.pdb
+C:\Users\ATTUNE\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ATTUNE\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Attune.Kernel.Build.Properties.Resources.resources
+C:\Users\ATTUNE\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Attune Product Builder.csproj.GenerateResource.Cache
+C:\Users\ATTUNE\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Attune.Kernel.Build.exe
+C:\Users\ATTUNE\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Attune.Kernel.Build.pdb
+C:\Users\ATTUNE\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Attune Product Builder\bin\Debug\Attune.Kernel.Build.exe.config
+C:\Users\ATTUNE\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Attune Product Builder\obj\Debug\Attune.Kernel.Build.exe
+C:\Users\ATTUNE\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Attune Product Builder\obj\Debug\Attune.Kernel.Build.pdb
+C:\Users\ATTUNE\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Attune Product Builder\bin\Debug\ModuleConfig.xml
+C:\Users\ATTUNE\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Attune Product Builder\bin\Debug\Attune.Kernel.Build.exe
+C:\Users\ATTUNE\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Attune Product Builder\bin\Debug\Attune.Kernel.Build.pdb
+C:\Users\ATTUNE\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Attune Product Builder\obj\Debug\Attune Product Builder.csprojResolveAssemblyReference.cache
+C:\Users\ATTUNE\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Attune Product Builder\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ATTUNE\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Attune Product Builder\obj\Debug\Attune.Kernel.Build.Properties.Resources.resources
+C:\Users\ATTUNE\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Attune Product Builder\obj\Debug\Attune Product Builder.csproj.GenerateResource.Cache
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Kernel.Build.exe.config
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune.Kernel.Build.exe
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune.Kernel.Build.pdb
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Kernel.Build.exe
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Kernel.Build.pdb
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Kernel.PlatForm.Utility.dll
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\System.Net.Http.dll
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Podium.BusinessEntities.dll
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\log4net.dll
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\NCalc.dll
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Cryptography.dll
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Kernel.PlatForm.Utility.pdb
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\System.Net.Http.xml
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Podium.BusinessEntities.pdb
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune Product Builder.csprojResolveAssemblyReference.cache
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune.Kernel.Build.BuildHome.resources
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune.Kernel.Build.buildProgress.resources
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune.Kernel.Build.ModuleSelector.resources
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune.Kernel.Build.Properties.Resources.resources
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune Product Builder.csproj.GenerateResource.Cache
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Kernel.Build.exe.config
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Kernel.Build.exe
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Kernel.Build.pdb
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Kernel.PlatForm.Utility.dll
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Podium.BusinessEntities.dll
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\log4net.dll
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\NCalc.dll
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Cryptography.dll
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Kernel.PlatForm.Utility.pdb
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Debug\Attune.Podium.BusinessEntities.pdb
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune.Kernel.Build.BuildHome.resources
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune.Kernel.Build.buildProgress.resources
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune.Kernel.Build.ModuleSelector.resources
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune.Kernel.Build.Properties.Resources.resources
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune Product Builder.csproj.GenerateResource.Cache
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune.Kernel.Build.exe
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune.Kernel.Build.pdb
+F:\VSSProduct\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Debug\Attune Product Builder.csprojResolveAssemblyReference.cache

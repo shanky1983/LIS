@@ -1,0 +1,19 @@
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Release\Attune.Kernel.Build.exe.config
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Release\Attune.Kernel.Build.exe
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Release\Attune.Kernel.Build.pdb
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Release\Attune.Kernel.PlatForm.Utility.dll
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Release\System.Net.Http.dll
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Release\Attune.Podium.BusinessEntities.dll
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Release\log4net.dll
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Release\NCalc.dll
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Release\Attune.Cryptography.dll
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Release\Attune.Kernel.PlatForm.Utility.pdb
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Release\System.Net.Http.xml
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\bin\Release\Attune.Podium.BusinessEntities.pdb
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Release\Attune.Kernel.Build.BuildHome.resources
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Release\Attune.Kernel.Build.buildProgress.resources
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Release\Attune.Kernel.Build.ModuleSelector.resources
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Release\Attune.Kernel.Build.Properties.Resources.resources
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Release\Attune Product Builder.csproj.GenerateResource.Cache
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Release\Attune.Kernel.Build.exe
+F:\VSSProduct_07Apr2016\Internal Tools\Attune Product Builder\Attune Product Builder\obj\Release\Attune.Kernel.Build.pdb
